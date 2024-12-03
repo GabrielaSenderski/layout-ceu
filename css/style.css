@@ -1,0 +1,44 @@
+/* geral */
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'poppins', sans-serif;
+}
+
+p {
+    font-family: 'poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'poppins', sans-serif;
+}
+h2{
+    font-family: 'poppins', sans-serif;
+}
+h3 {
+    font-family: 'poppins', sans-serif;
+}
+
+button {
+    border: none;
+    box-shadow: none;
+}
+
+/* nav */
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 3vw 2.5vw 3vw 2.5vw;
+}
+header nav ul li#local{
+    padding-left: 55vw;
+}
+
+li#ceu {
+    color: #1090CB;
+    font-family: 'poppins', sans-serif;
+    font-size: 1.9rem;
+    font-weight: bold;
+}
